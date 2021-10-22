@@ -1,2 +1,2 @@
-# NeuralNetowrk_Numpy
+# NeuralNetowork_Numpy
 Implement Neural Network Using Numpy
